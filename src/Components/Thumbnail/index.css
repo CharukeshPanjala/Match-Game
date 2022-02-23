@@ -1,0 +1,14 @@
+.thumbnail {
+  list-style: none;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.thumbnail-image {
+  width: 66px;
+  height: 66px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

@@ -1,0 +1,15 @@
+.tab {
+  background-color: transparent;
+  border-width: 0px;
+  color: #ffffff;
+  font-size: 18px;
+  margin-right: 30px;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+
+.highlight {
+  color: #fec653;
+  border-bottom-width: 2px;
+  border-color: #fec653;
+}
